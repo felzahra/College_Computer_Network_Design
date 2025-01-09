@@ -1,3 +1,3 @@
-# College_Computer_Network_Design
+# College-Computer-Network
 
-![image](https://github.com/user-attachments/assets/309b682c-13f2-437a-8f21-1fe2f964aab8)
+I had to design a complete college computer network in CISCO Packet Tracer using routing protocols (RIP, OSPF, EIGRP) and different types of server (DHCP, DNS, FTP, E-mail and IoT).
